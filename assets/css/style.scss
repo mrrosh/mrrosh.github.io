@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "jekyll-theme-midnight";
-
+@import "{{ site.theme }}";
 #body {background: #000!}
-
 #header {    background: #b5b5b5;}
