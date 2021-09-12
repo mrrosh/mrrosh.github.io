@@ -1,3 +1,12 @@
+---
+layout: default
+---
+
+[CENTER]<span style="color: rgb(65,">[SIZE=7]CREDIT GOES TO ORIGINAL CREATOR OF THE LIST: [/SIZE]<a href="'https://github.com/Meridaw'"><strong>[SIZE=7]MERIDAW[/SIZE]</strong></a></span>
+
+
+
+[/CENTER]
 
 [SIZE=7]<strong>A</strong>[/SIZE]
 <a href="'https://github.com/xorann/Abraxas'">Abraxas</a> - Warlock Helper<a href="'https://camo.githubusercontent.com/3dcd600c95ea33d282bda9e2d3f03a86e2a2ae75/68747470733a2f2f692e696d6775722e636f6d2f7635765574664e2e706e67'"> [Img1]</a>
