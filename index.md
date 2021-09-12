@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<p>[SIZE=7][B]A[/B][/SIZE]<br />
-[URL='https://github.com/xorann/Abraxas']Abraxas[/URL] - Warlock Helper[URL='https://camo.githubusercontent.com/3dcd600c95ea33d282bda9e2d3f03a86e2a2ae75/68747470733a2f2f692e696d6775722e636f6d2f7635765574664e2e706e67'] [Img1][/URL]<br />
+
+
+## A
+[Abraxas](https://github.com/xorann/Abraxas) - Warlock Helper[Img1](https://camo.githubusercontent.com/3dcd600c95ea33d282bda9e2d3f03a86e2a2ae75/68747470733a2f2f692e696d6775722e636f6d2f7635765574664e2e706e67)
 [URL='https://gitlab.com/aead/aBindings']aBindings[/URL] - Direct macrotext-to-key bindings<br />
 [URL='https://github.com/firenahzku/ActionBarProfiles']ActionBarProfiles[/URL] - stores your action bar layout and enables to quickly switch between them[URL='https://user-images.githubusercontent.com/26133646/39138529-6a3403b2-4720-11e8-8a64-1a3794ab1163.png'] [Img1][/URL]<br />
 [URL='https://github.com/Hosq/ActionBarSaver']ActionBarSaver[/URL] - Saves and restores your action bars[URL='https://user-images.githubusercontent.com/26133646/39139438-364cb6a0-4722-11e8-94bb-daeb988470d3.png'] [Img1][/URL]<br />
@@ -41,7 +43,7 @@ layout: default
 [URL='https://github.com/shirsig/attack']Attack[/URL] - Enable attack with /attack<br />
 [URL='https://github.com/Road-block/AttackBar']AttackBar[/URL] - Player and Enemy Swing Timer addon[URL='https://user-images.githubusercontent.com/26133646/39252348-c08323f2-48a5-11e8-874d-e72c7e7e19d6.png'] [Img1][/URL]<br />
 [URL='https://github.com/KasVital/Addons-for-Vanilla-1.12.1-CFM']Addons for Vanilla[/URL] - All the most needed addons (Last updated: 12 May 2018)<br />
-[SIZE=7][B]B[/B][/SIZE]<br />
+[SIZE=7][B]B
 [URL='https://github.com/Numielle/BattleShoutGlow']BattleShoutGlow[/URL] - add a retail-like glow to battle shout as reminder[URL='https://github.com/Numielle/ActionButtonUtils'] [Dep][/URL][URL='http://i.imgur.com/ofLzGzx.png'] [img1][/URL]<br />
 [URL='https://github.com/Hosq/Banana']BananaBar[/URL] - buttons to set raid symbols/hunter's mark, target by symbol and many other features[URL='https://user-images.githubusercontent.com/26133646/39141924-76da410e-4729-11e8-94c4-ad3059821782.png'] [Img1][/URL]<br />
 [URL='https://github.com/Fiskehatt/BearCastBar']BearCastBar[/URL] - A cool cast bar and swing timer that takes into account latency[URL='https://user-images.githubusercontent.com/17283626/46246049-8712cb00-c400-11e8-9313-24981db88d6f.gif'] [Img1][/URL][URL='https://user-images.githubusercontent.com/17283626/46246048-84b07100-c400-11e8-999d-15da78273535.gif'] [Img2][/URL]<br />
@@ -68,7 +70,7 @@ layout: default
 [URL='https://github.com/muellerj/Bloodrage']Bloodrage[/URL] - Provide a single button to put you in the "default" stance and activate Bloodrage<br />
 [URL='https://github.com/suetema/AddOns']Boldi's addons[/URL] - tweaks to boldi's addons<br />
 [URL='https://github.com/muellerj/BSAlert']BSAlert[/URL] - Notifies you when BattleShout is not up<br />
-[SIZE=7][B]C[/B][/SIZE]<br />
+[SIZE=7][B]C
 [URL='https://github.com/Sentilix/capslock']Capslock[/URL] - Warlock summon addon<br />
 [URL='https://github.com/Linae-Kronos/CasterStats']CasterStats[/URL] - CasterStats, adds the attribute Spell Dmg in the Character Panel (with hit & crit)[URL='https://user-images.githubusercontent.com/24671466/27561934-7b887bfe-5aca-11e7-97b3-41ac64b604fe.png'] [Img1][/URL]<br />
 [URL='https://github.com/laytya/CallOfElements']CallOfElements[/URL] - simplify totem usage and increase your efficiency in party and in PVP[URL='https://user-images.githubusercontent.com/26133646/47299339-46325e80-d61a-11e8-897a-93d0ec41dba7.png'] [Img1][/URL]<br />
@@ -124,7 +126,7 @@ layout: default
 [URL='https://github.com/0ldi/ChatFix']ChatFix[/URL] - Fix for channels World, Trade, etc.[URL='https://camo.githubusercontent.com/1ba607ce2e89cb38fee1bbe9825b5af37568d09d/687474703a2f2f696d616765686f73742e737061726b2d6d656469612e72752f69342f30384237463537412d393139352d424444412d383433362d3837424539334633373037452e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/0ldi/ChatBar']ChatBar[/URL] - Button Bar for opening chat messages of each type[URL='https://camo.githubusercontent.com/26e8dc022e37004a88a03c3e6a50c600e12087df/687474703a2f2f696d616765686f73742e737061726b2d6d656469612e72752f69752f35332f42302f35334230354145342d393632382d374634452d324334372d4642334135433131453139302e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/retrospectx/cyCircled']cyCircled[/URL] - changes the look of various buttons (mostly action bar buttons)[URL='http://imgur.com/fmatXIX'] [Img1][/URL]<br />
-[SIZE=7][B]D[/B][/SIZE]<br />
+[SIZE=7][B]D
 [URL='https://github.com/Cephel/DankScore']DankScore[/URL] - a tool to choose the best items for your spec/gear<br />
 [URL='https://github.com/vashin1/DebuffFilter']DebuffFilter[/URL] - Filter out specific target debuffs and player buffs into a separate frame[URL='https://camo.githubusercontent.com/ebc054dec9c12ae4dc96e633ae489c6750027201/68747470733a2f2f692e696d6775722e636f6d2f314c70444434542e706e67'] [Img1][/URL][URL='https://camo.githubusercontent.com/fefdd0bc6bd01075219531e02aa5a9a6ac8c2e74/68747470733a2f2f692e696d6775722e636f6d2f555962643353512e706e67'] [Img2][/URL]<br />
 [URL='https://github.com/Voidmenull/DebuffTimers']DebuffTimers[/URL] - Timer Overlays for enemy buffs and debuffs[URL='http://i.imgur.com/F31cxHL.png'] [Img1][/URL][URL='http://i.imgur.com/wViWyqS.png'] [Img2][/URL]<br />
@@ -144,7 +146,7 @@ layout: default
 [URL='https://github.com/Geigerkind/DPSMate']DPSMate[/URL] - combat analyzation tool [URL='https://github.com/turinpt/FuBar_DPSMate'][Fu][/URL][URL='https://user-images.githubusercontent.com/26133646/34461179-2ab549b2-ee24-11e7-873e-e55e7f86d32c.png'] [Img1][/URL][URL='https://discord.gg/JMQrrqy'] [Discord][/URL]<br />
 [URL='https://github.com/Cernie/DruidConsumable']DruidConsumable[/URL] - Script method for Druid consumable usage with powershifting<br />
 [URL='https://github.com/gashole/DruidManaBar']DruidManaBar[/URL] - Displays a mana bar when shapeshifted[URL='https://camo.githubusercontent.com/9cfe0c9cc1cbd3223408cc11cfd69036d23e5f86/687474703a2f2f692e696d6775722e636f6d2f454631714235342e706e67'] [Img1][/URL]<br />
-[URL='https://github.com/Zerf/Decursive']Decursive[/URL] - Its job is to help a class that can remove debuffs[URL='https://www.youtube.com/watch?v=qAOVoWETW_k&feature=youtu.be'] [Vid1][/URL]</p><p>[SIZE=7][B]E[/B][/SIZE]<br />
+[URL='https://github.com/Zerf/Decursive']Decursive[/URL] - Its job is to help a class that can remove debuffs[URL='https://www.youtube.com/watch?v=qAOVoWETW_k&feature=youtu.be'] [Vid1][/URL]</p>## E
 [URL='https://github.com/Geigerkind/ExpandAssist']ExpandAssist[/URL] - enabling the raid assist to do the same as an raid leader<br />
 [URL='https://github.com/0ldi/ExoRaidSetup']ExoRaidSetup[/URL] - allows a raid to share graphical representations of boss pulls[URL='https://camo.githubusercontent.com/dfe290631c7811e4962fbc28c118f0c4f5e22fd4/687474703a2f2f696d616765686f73742e737061726b2d6d656469612e72752f69342f46464146333231412d433541312d433042342d454533392d3536394639434134453043342e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/Voidmenull/EzPoison']EzPoison[/URL] - Rogue Poison Helper[URL='https://i.imgur.com/LrDLpWF.png'] [Img1][/URL][URL='https://i.imgur.com/iium2ID.png'] [Img2][/URL]<br />
@@ -175,7 +177,7 @@ layout: default
 [URL='https://github.com/isitLoVe/EPGPexport']EPGPexport[/URL] - Effort Points/Gear Points Loot System export tool<br />
 [URL='https://github.com/Voidmenull/EzDismount']EzDismount[/URL] - Dismounts you whenever "Cannot use while mounted" appear<br />
 [URL='https://github.com/yutsuku/EZ-EPGP']EZ-EPGP[/URL] - Displays EP/GP ratio in neat frame that can be sorted by clicking on headers[URL='https://github.com/yutsuku/EZ-EPGP/raw/master/docs/preview.png?raw=true'] [Img1][/URL]<br />
-[SIZE=7][B]F[/B][/SIZE]<br />
+[SIZE=7][B]F
 [URL='https://github.com/MarkTiedemann/FeralFire']FeralFire[/URL] - Customizable WoW attack add-on for Cat Form Feral Druids<br />
 [URL='https://github.com/wardz/FocusFrame']FocusFrame[/URL] - Provides[URL='http://wowwiki.wikia.com/wiki/Focus_target'] focus targeting[/URL] & frame support [URL='https://camo.githubusercontent.com/c9ddc4c81975895b69a7f2ba7b988064afffc419/687474703a2f2f692e696d6775722e636f6d2f4f4563577767552e6a7067'][Img1][/URL]<br />
 [URL='https://github.com/wardz/FocusFrame_TargetCastbar']FocusFrame TargetCastbar[/URL] - Adds an extra castbar for your current target<br />
@@ -191,7 +193,7 @@ layout: default
 [URL='https://github.com/cubenicke/Fury']Fury[/URL] - end game raiding addon to make Warrior combat easier<br />
 [URL='https://github.com/anzz1/FreeBagSlots']FreeBagSlots[/URL] - Free bag slots counter[URL='https://user-images.githubusercontent.com/13628128/58876631-5e517c80-86d7-11e9-97c4-ff6ca33ad2f4.png'] [Img1][/URL]<br />
 [URL='https://github.com/Fiskehatt/FriendFinder']FriendFinder[/URL] - An addon that helps you find your old friends from other servers!<br />
-[SIZE=7][B]G[/B][/SIZE]<br />
+[SIZE=7][B]G
 [URL='https://github.com/jsb/Gatherer']Gatherer[/URL] - track the closest plants, deposits and treasure locations on you minimap [URL='https://cloud.githubusercontent.com/assets/15636669/21586400/dc061a68-d0e1-11e6-9f16-0fd8da155904.jpg'][Img1][/URL][URL='https://user-images.githubusercontent.com/26133646/39196751-2dd250ea-47e3-11e8-96c2-6d275a7a90b9.png'] [Img2][/URL] [URL='https://github.com/jsb/Gatherer'][2][/URL]<br />
 [URL='https://github.com/yutsuku/Gamepad']Gamepad[/URL] - Simplifies using abilities when using gamepad<br />
 [URL='https://github.com/Voidmenull/GamonKillTimer']GamonKillTimer[/URL] - never miss a gamon kill again!<br />
@@ -214,7 +216,7 @@ layout: default
 [URL='https://gitlab.com/Senzuwow/GryllsUnitFrames']GryllsUnitFrames[/URL] - Adds HP & Power values to the unit frames[URL='https://gitlab.com/Senzuwow/GryllsAddons/raw/master/GryllsUnitFrames/GUF1.png'] [Img1][/URL][URL='https://gitlab.com/Senzuwow/GryllsAddons/raw/master/GryllsUnitFrames/GUF2.png'] [Img2][/URL]<br />
 [URL='https://github.com/Schaka/GetSpellInfoVanilla']GetSpellInfo[/URL] - An addon to help developers access information about spells<br />
 [URL='https://github.com/Monteo/GFW_FeedOMatic']GFW FeedOMatic[/URL] - Helps a Hunter keep his pets well fed (and the food in his inventory under control)<br />
-[SIZE=7][B]H[/B][/SIZE]<br />
+[SIZE=7][B]H
 [URL='https://github.com/yutsuku/HawkenPlates']HawkenPlates[/URL] - Nameplate based on Hawken (Mech FPS Game)[URL='https://user-images.githubusercontent.com/26133646/39197849-ddff86e8-47e5-11e8-8d83-1884d2c7d51b.png'] [Img1][/URL]<br />
 [URL='https://github.com/hitbutton/HBActionBars']HBActionBars[/URL] - Action Bars Replacement<br />
 [URL='https://github.com/hitbutton/HBPowerInfusion']HBPowerInfusion[/URL] - Helper for Power Infusion Priests<br />
@@ -228,7 +230,7 @@ layout: default
 [URL='https://github.com/JakiraElysium/HideUI']HideUI[/URL] - Hides the icons at the end of the action bars[URL='https://user-images.githubusercontent.com/26133646/39135808-1aba72e0-471a-11e8-911c-e65114df9347.png'] [Img1][/URL]<br />
 [URL='https://github.com/Aviana/HunterPaging']HunterPaging[/URL] - changes your action bar based on range<br />
 [URL='https://github.com/anstellaire/HunterSwissKnife']HunterSwissKnife[/URL] - provides hunters with a set of useful things[URL='https://raw.githubusercontent.com/sonitusv/HunterSwissKnife/screenshots/Screenshots/menu.jpg'] [Img1][/URL][URL='https://raw.githubusercontent.com/sonitusv/HunterSwissKnife/screenshots/Screenshots/autoshot-1.jpg'] [Img2][/URL]<br />
-[SIZE=7][B]I[/B][/SIZE]<br />
+[SIZE=7][B]I
 [URL='https://github.com/Geigerkind/IBDF']IBDF[/URL] - addon to control what mages cast<br />
 [URL='https://github.com/Industrial/idAddon']IdAddon[/URL] - does everything I wouldn't want to play without[URL='https://user-images.githubusercontent.com/26133646/41000503-84247fe4-690e-11e8-8e4c-03676e43bd09.png'] [Img1][/URL]<br />
 [URL='https://github.com/Industrial/idQuestAutomation']IdQuestAutomation[/URL] - Skips social dialogue, automates quest accepting/turning in<br />
@@ -244,11 +246,11 @@ layout: default
 [URL='https://github.com/Road-block/ItemsOfPower#itemsofpower']ItemsOfPower[/URL] - Item Stat Valuation Addon[URL='https://github.com/Road-block/ItemsOfPower/raw/docs/IOP_set_stat_weight.png'] [Img1][/URL]<br />
 [URL='https://github.com/Linae-Kronos/ItemRack']ItemRack[/URL] - Context menus for inventory items[URL='https://github.com/Linae-Kronos/ItemRackFu'] [Fu][/URL][URL='https://www.youtube.com/watch?v=Fdfb0gH913U'] [Vid1][/URL]<br />
 [URL='https://github.com/Atreyyo/IWIN']IWIN[/URL] - A one button macro addon for Warriors<br />
-[SIZE=7][B]J[/B][/SIZE]<br />
+[SIZE=7][B]J
 [URL='https://github.com/pushxd/JIM_CooldownPulse']JIM CooldownPulse[/URL] - As spells, actions, and items become available, their icons will flash in a conspicuous place<br />
 [URL='https://github.com/pushxd/JIM_toolbox']JIM toolbox[/URL] - provides configuration UI for other AddOns!<br />
 [URL='https://github.com/Doctorbeefy/JoanasGuide1/blob/master/Joana%27s%20Guide%20Atlas%20Suite.zip?raw=true']Joana's Guide Atlas Suite[/URL] - is a leveling guide built into the Atlas addon[URL='https://user-images.githubusercontent.com/26133646/34916744-4fa8254a-f93d-11e7-91cf-aa8785cdec08.png'] [Img1][/URL]<br />
-[SIZE=7][B]K[/B][/SIZE]<br />
+[SIZE=7][B]K
 [URL='https://github.com/Grymskvll/KANGZ']KANGZ[/URL] - addon for managing Dire Maul Tribute buff run invites[URL='https://github.com/Grymskvll/KANGZ/raw/master/KANGZ.png'] [Img1][/URL]<br />
 [URL='https://github.com/EinBaum/KeyringOpener']KeyringOpener[/URL] - Opens the keyring whenever all bags are opened (Shift-B)<br />
 [URL='https://github.com/sumowares/killpro']Killpro[/URL] - used for tracking all kills[URL='http://i.imgur.com/7b4S0Wol.jpg'] [Img1][/URL]<br />
@@ -259,7 +261,7 @@ layout: default
 [URL='https://github.com/Bergador/KTP3ShackleCounter']KTP3ShackleCounter[/URL] - Keeps track of the number of shackles on the Kel'Thuzad encounter phase 3<br />
 [URL='https://github.com/yutsuku/KLHThreatMeterBlizz']KLHThreatMeterBlizz[/URL] - adds a small threat indicator to your target frame[URL='https://github.com/yutsuku/KLHThreatMeterBlizz/raw/master/docs/img/KLHThreatMeterBlizz.png?raw=true'] [Img1][/URL]<br />
 [URL='https://github.com/Road-block/KillLog']KillLog[/URL] - a GUI for browsing your Kill Log history[URL='http://imgur.com/C7x4hR8.png'] [Img1][/URL][URL='https://i.imgur.com/aZ5IIGl.png'] [Img2][/URL]<br />
-[SIZE=7][B]L[/B][/SIZE]<br />
+[SIZE=7][B]L
 [URL='https://github.com/liedead/LieExp']LieExp[/URL] - Adds a simple experience tracker[URL='https://raw.githubusercontent.com/liedead/LieExp/master/Screenshot.png'] [Img1][/URL]<br />
 [URL='https://github.com/laytya/LilSparkysWorkshop-vanilla']LilSparkysWorkshop[/URL] - adds auction-derived pricing information for trade skills right into the trade skill recipe frame[URL='https://camo.githubusercontent.com/8344d50dca78948dcbeaafc0eb227d1263fe6c76/687474703a2f2f692e696d6775722e636f6d2f555872524f786c2e6a7067'] [Img1][/URL]<br />
 [URL='https://github.com/Aviana/LunaUnitFrames']LunaUnitFrames[/URL] - Lightweight Unit Frames in a modern look[URL='https://www.youtube.com/watch?v=qWd1m7NR2vA'] [Vid1][/URL] [URL='https://github.com/martinjlowm/LunaUnitFrames'][2][/URL]<br />
@@ -274,7 +276,7 @@ layout: default
 [URL='https://github.com/0ldi/LoseControl']LoseControl[/URL] - makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon on screen[URL='https://i.imgur.com/TTA1bXR.jpg'] [Img1][/URL]<br />
 [URL='https://github.com/Road-block/LootTracker']LootTracker[/URL] - The primary purpose of this addon is track the loot that you and your party receive[URL='https://camo.githubusercontent.com/fc6bf4d56b90dbd1ecf6f21cbc92deb6a70810ed/687474703a2f2f692e696d6775722e636f6d2f32716d624b73732e6a7067'] [Img1][/URL]<br />
 [URL='https://github.com/Road-block/LanguageFilter']LanguageFilter[/URL] - Filter chat messages by character range<br />
-[SIZE=7][B]M[/B][/SIZE]<br />
+[SIZE=7][B]M
 [URL='https://github.com/WobLight/MacroTextStop']MacroTextStop[/URL] - Hides macro texts in action buttons<br />
 [URL='https://github.com/UndercityAddons-Vanilla/MacroTT-V']MacroTT-V[/URL] - Create tooltips for your macros[URL='http://i.imgur.com/No29ZuX.jpg'] [Img1][/URL][URL='http://i.imgur.com/6Sq55nX.jpg'] [Img2][/URL]<br />
 [URL='https://github.com/shirsig/Mail']Mail[/URL] - Mailbox enhancement[URL='https://camo.githubusercontent.com/029dc629ed200161394bd957a30f74ea3d151c48/687474703a2f2f692e696d6775722e636f6d2f48304d556d58642e706e67'] [Img1][/URL][URL='https://camo.githubusercontent.com/9cd3acbbb6ba6fd427c5477ab93bf654df993e0c/687474703a2f2f692e696d6775722e636f6d2f5a4479664d494b2e706e67'] [Img2][/URL]<br />
@@ -307,7 +309,7 @@ layout: default
 [URL='https://github.com/PROXiCiDE/MacroExtender']MacroExtender[/URL] - allows you to create conditional statement macros that are found in TBC+ and more[URL='http://proxicide.github.io/MacroExtender/'] [Read][/URL]<br />
 [URL='https://github.com/laytya/MinimapButtonBag-vanilla']MinimapButtonBag[/URL] - cleans up your Minimap and relocates the buttons in a menu bar[URL='https://user-images.githubusercontent.com/26133646/39262214-11b09386-48bf-11e8-8e32-7a0c3a4d724d.png'] [Img1][/URL]<br />
 [URL='https://github.com/Stretpaket/MorunoRankEnhanced/']MorunoRankEnhanced[/URL] - addon for estimating PVP-Standings [URL='http://i.imgur.com/XfktEXC.jpg'][Img1][/URL]<br />
-[URL='https://github.com/AtheneGenesis/Vanilla_ManyQTItemTooltips']ManyQTItemTooltips[/URL] - Up to 20 tooltips[URL='http://image.noelshack.com/fichiers/2015/39/1443203148-wowscrnshot-092515-192349.png'] [Img1][/URL][URL='http://image.noelshack.com/fichiers/2015/39/1443203148-sans-titre.png'] [Img2][/URL]</p><p>[SIZE=7][B]N[/B][/SIZE]<br />
+[URL='https://github.com/AtheneGenesis/Vanilla_ManyQTItemTooltips']ManyQTItemTooltips[/URL] - Up to 20 tooltips[URL='http://image.noelshack.com/fichiers/2015/39/1443203148-wowscrnshot-092515-192349.png'] [Img1][/URL][URL='http://image.noelshack.com/fichiers/2015/39/1443203148-sans-titre.png'] [Img2][/URL]</p>## N
 [URL='https://github.com/Road-block/wow-saiket/releases']_Nameplates[/URL] - sorts nameplates into friendly and hostile columns[URL='http://i.imgur.com/BYSWogN.jpg'] [Img1][/URL]<br />
 [URL='https://github.com/namreeb/nampower']nampower[/URL] - Dramatically increase cast efficiency on the 1.12.1 client!<br />
 [URL='https://github.com/Road-block/Nauticus']Nauticus[/URL] - transportation tracker[URL='https://github.com/Road-block/FuBar_NauticusFu'] [Fu][/URL]<br />
@@ -316,7 +318,7 @@ layout: default
 [URL='https://github.com/rnorden/NotesUNeed']NotesUNeed[/URL] - Notes Manager that allows you to track Friends, Ignores, Guild members, Quests, Items and generic notes[URL='https://user-images.githubusercontent.com/26133646/39304137-f8a20fba-4958-11e8-9494-4e5d390e4f6b.png'] [Img1][/URL]<br />
 [URL='https://github.com/Cabro/NyaMap']NyaMap[/URL] - Make your minimap sexy[URL='https://user-images.githubusercontent.com/26133646/39137040-f0b53a4a-471c-11e8-8a92-2a5a2504a4a1.png'] [Img1][/URL]<br />
 [URL='https://github.com/laytya/Niagara']Niagara[/URL] - makes a list of all your Ace2 Addons that use AceConsole using Waterfall Lib so you have a GUI for config[URL='http://i.imgur.com/E50w3iw.jpg'] [Img1][/URL]<br />
-[SIZE=7][B]O[/B][/SIZE]<br />
+[SIZE=7][B]O
 [URL='https://github.com/Geigerkind/OneButtonHunter']OneButtonHunter[/URL] - A very simple addon, executing the rotation of the hunter<br />
 [URL='https://github.com/Road-block/Vanilla_oCB']oCB[/URL] - (Otravi Casting Bar) Quartz Like castbar[URL='http://image.noelshack.com/fichiers/2015/44/1446337052-sans-titre.png'] [Img1][/URL][URL='http://image.noelshack.com/fichiers/2014/11/1394915291-ocb2.png'] [Img2][/URL] [URL='https://github.com/martinjlowm/Vanilla_oCB'][2][/URL]<br />
 [URL='https://github.com/anzz1/OmniCC']OmniCC[/URL] - A universal cooldown count, based on Gello's spec[URL='https://user-images.githubusercontent.com/13628128/58881262-7d094080-86e2-11e9-8ef2-be1f22caf5f5.jpg'] [Img1][/URL] [URL='https://github.com/martinjlowm/OmniCC'][2][/URL]<br />
@@ -324,7 +326,7 @@ layout: default
 [URL='https://github.com/xorann/oRA2']oRA2[/URL] - a lightweight alternative for CTRaidAssist [URL='https://cloud.githubusercontent.com/assets/15636669/21586607/f9f4cee6-d0e3-11e6-8ac9-8bc9c8313034.jpg'][Img1][/URL]<br />
 [URL='https://github.com/isitLoVe/Outfitter']Outfitter[/URL] - is an equipment management addon which gives you fast access to multiple outfits[URL='https://github.com/Voidmenull/FuBar_OutfitterFu'] [Fu][/URL] [URL='https://i.imgur.com/iAixuvGl.png'][Img1][/URL]<br />
 [URL='https://github.com/unnamedtxt/OutOfMana']OutOfMana[/URL] - check the mana percentage of raid members[URL='https://github.com/unnamedtxt/OutOfMana/raw/master/example.jpg'] [Img1][/URL]<br />
-[SIZE=7][B]P[/B][/SIZE]<br />
+[SIZE=7][B]P
 [URL='https://github.com/S4V4GENZ/PallyPower']PallyPower[/URL] - easy to use interface that allows you set your own blessings and automatically check for missing buffs<br />
 [URL='https://github.com/wbb1977/PerfectShot']PerfectShot[/URL] - Hides UI / name plates and then takes a series of screenshots<br />
 [URL='https://github.com/Road-block/PingoMatic']PingoMatic[/URL] - Minimap Ping Improvements[URL='https://user-images.githubusercontent.com/109839/38913706-dd0b48c2-42e4-11e8-9ffd-9efa17db6b92.png'] [Img1][/URL]<br />
@@ -356,7 +358,7 @@ layout: default
 [URL='https://github.com/Numielle/PriestBinds']PriestBinds[/URL] - Provides keybinds for priest abilities<br />
 [URL='https://github.com/RagedUnicorn/wow-pvpwarn']Pvpwarn[/URL] - Addon that warns players visually and acoustically about pvp events[URL='https://github.com/RagedUnicorn/wow-pvpwarn/raw/master/Docs/pvpw_doc_enemy_avoid.png'] [Img1][/URL]<br />
 [URL='https://gitlab.com/woblight/pwscounter']pwscounter[/URL] - allows to track how many Power Word: Shields are being cast in a raid fight<br />
-[SIZE=7][B]Q[/B][/SIZE]<br />
+[SIZE=7][B]Q
 [URL='https://github.com/Questie/Questie/tree/1.12']Questie[/URL] - A standalone Vanilla QuestHelper[URL='https://www.youtube.com/watch?v=HeH_DHm1Ecg&t'] [Vid1][/URL][URL='https://discord.gg/phKnHVu'] [Discord][/URL]<br />
 [URL='https://github.com/Road-block/QuestSoundBits']QuestSoundBits[/URL] - is a quest progress sound alert addon<br />
 [URL='https://github.com/Daribon/QuestTranslator']QuestTranslator[/URL] - Italian Quests Translator[URL='https://camo.githubusercontent.com/0da3f06aee5946b1853610c208a4f8d853005901/68747470733a2f2f692e696d6775722e636f6d2f6a6964776f39542e706e67'] [Img1][/URL]<br />
@@ -366,7 +368,7 @@ layout: default
 [URL='https://github.com/someaddons/Quickmark']Quickmark[/URL] - assist with quickly marking targets[URL='https://user-images.githubusercontent.com/26133646/39653165-380d49a6-4ff0-11e8-8cf6-1c159cf090ef.png'] [Img1][/URL]<br />
 [URL='https://gitlab.com/WobLight/QuestHaste']QuestHaste[/URL] - allows fast turn in of quests<br />
 [URL='https://github.com/wow-vanilla-addons/QuestItem']QuestItem[/URL] - stores an in-game database over quest items and tell you which quest they belong to<br />
-[SIZE=7][B]R[/B][/SIZE]<br />
+[SIZE=7][B]R
 [URL='https://github.com/Linae-Kronos/RABuffs']RABuff[/URL] - Monitors a raid / party group, displaying various statistics[URL='https://user-images.githubusercontent.com/26133646/39288519-9be1fcde-4928-11e8-99a2-1fcba60d7c28.png'] [Img1][/URL]<br />
 [URL='https://github.com/Road-block/RageTracker']RageTracker[/URL] - Shows an resizable and movable rage bar<br />
 [URL='https://github.com/TylkaW/RaidOrganizer']RaidOrganizer[/URL] - User-friendly interface for raid role assignment<br />
@@ -393,7 +395,7 @@ layout: default
 [URL='https://github.com/WoWruRU-ClassicAddons']ruRU ClassicAddons[/URL] - Addons supporting  ruRU local<br />
 [URL='https://github.com/Aviana/RealLag']RealLag[/URL] - Attempts to give the Classic WoW client a more realistic lag display<br />
 [URL='https://github.com/Zerf/RenewSpam']RenewSpam[/URL] - autocasts renew(rank 1) on any raid member that doesn't have renew<br />
-[URL='https://github.com/shirsig/rwsync']RWSync[/URL] - Multi Raid Warning</p><p>[SIZE=7][B]S[/B][/SIZE]<br />
+[URL='https://github.com/shirsig/rwsync']RWSync[/URL] - Multi Raid Warning</p>## S
 [URL='https://github.com/someaddons/SafeBuff']SafeBuff[/URL] - Smart target buffing<br />
 [URL='https://github.com/Grymskvll/SafeShift']SafeShift[/URL] - Safety measure against accidentally unshifting immediately after shapeshifting<br />
 [URL='https://github.com/goffauxs/Salad_Cthun']Salad Cthun[/URL] - Shows optimal positioning based on group on C'thun[URL='https://camo.githubusercontent.com/c3df2b854ce886fda411634396640946b53d06b2/687474703a2f2f692e696d6775722e636f6d2f38384c695473352e706e67'] [Img1][/URL]<br />
@@ -470,7 +472,7 @@ layout: default
 [URL='https://github.com/Zerf/SW_Stats-Vanilla']SW Stats[/URL] - (named after guild Shadow Warrior) is a damage/heal (and more) meter addon[URL='https://camo.githubusercontent.com/fdaf912323189b9e217a33a893c33faacf2fa12b/68747470733a2f2f6d656469612d656c657269756d2e637572736563646e2e636f6d2f6174746163686d656e74732f38352f39302f73772d73746174732d73796e632d616e642d7265706f72742d77696e646f77732e6a7067'] [Img1][/URL]<br />
 [URL='https://github.com/vashin1/SyncedUI']SyncedUI[/URL] - A complete UI solution featuring a customized profile & release of pfUI for for 1920x1080[URL='https://camo.githubusercontent.com/fa0ea52e5a89525b2911e16166a92a299887eff7/687474703a2f2f692e696d6775722e636f6d2f5969655a4a736b2e6a7067'] [Img1][/URL]<br />
 [URL='https://github.com/0ldi/SummonsMonitor']SummonsMonitor[/URL] - makes it easy for one or more Warlocks to summon multiple people[URL='https://camo.githubusercontent.com/d219672b57ea934fd8113a2bade98098f93a1cf6/687474703a2f2f696d616765686f73742e737061726b2d6d656469612e72752f69342f33443534394336342d413539332d304134362d394335452d4444453538323145444542382e706e67'] [Img1][/URL]<br />
-[SIZE=7][B]T[/B][/SIZE]<br />
+[SIZE=7][B]T
 [URL='https://github.com/Atreyyo/TankAssignments']TankAssignments[/URL] - helps you assign tanks to raid targets<br />
 [URL='https://github.com/laytya/TankBuddyEnh']TankBuddyEnh[/URL] - Alert raid on successful/missed taunt/kick/cc<br />
 [URL='https://github.com/xorann/TankHeal']TankHeal[/URL] - Tank Heal Assistant<br />
@@ -496,13 +498,13 @@ layout: default
 [URL='https://github.com/cralor/TourGuide_Professions']TourGuide Professions[/URL] - Professions guides for 1-300<br />
 [URL='https://github.com/cralor/TourGuideVanilla']TourGuideVanilla[/URL] - Power Leveling guide framework[URL='https://user-images.githubusercontent.com/26133646/36521684-5a62bf9e-1798-11e8-844f-4e682f9feb75.png'] [Img1][/URL]<br />
 [URL='https://github.com/dogmax/ToxicTagger']ToxicTagger[/URL] - enables you to easily make macros that are good for tagging mobs<br />
-[SIZE=7][B]U[/B][/SIZE]<br />
+[SIZE=7][B]U
 [URL='https://github.com/Lichery/UberBanish']UberBanish[/URL] - Informs the party/raid of how much time is left in your Banishes<br />
 [URL='https://github.com/yutsuku/UITweaks']UITweaks[/URL] - Tweaks the User Interface to be as minimalistic as possible<br />
 [URL='https://github.com/Daribon/UnicodeFont']UnicodeFont[/URL] - Enables you to see Chinese, Japanese and other languages in game<br />
 [URL='https://github.com/Ko0z/UnitFramesImproved_Vanilla']UnitFramesImproved[/URL] - improve upon the standard blizzard unit frames without going beyond the boundaries set by them[URL='https://camo.githubusercontent.com/0082757337a05d228dc6c351f406ddaf59104d91/687474703a2f2f692e696d6775722e636f6d2f78754f664d72792e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/shirsig/unitscan']Unitscan[/URL] - automatically scans for characters by name and alerts you upon finding one[URL='https://i.imgur.com/d7TLkZm.png'] [Img1][/URL]<br />
-[SIZE=7][B]V[/B][/SIZE]<br />
+[SIZE=7][B]V
 [URL='https://github.com/laytya/Vanilla-Addons']Vanilla Addons[/URL] - vanilla addons fixed by Laytya<br />
 [URL='https://github.com/crazypoultry/addons']Vanilla addons A-Z[/URL] - Big addons repository (Last updated: 30 Apr 2018)<br />
 [URL='https://github.com/mrrosh/VanillaGraphicBoost']VanillaGraphicBoost[/URL] - Push the game's visuals to the max[URL='https://user-images.githubusercontent.com/26133646/39453092-ec65f660-4cd4-11e8-9f2b-dc4972bb54cc.png'] [Img1][/URL]<br />
@@ -519,7 +521,7 @@ layout: default
 [URL='https://github.com/yutsuku/VoidBattle']VoidBattle[/URL] - AddOn that removes battleground spam messages from chat<br />
 [URL='https://github.com/laytya/vQueue']VQueue[/URL] - Group finder utility[URL='https://www.youtube.com/watch?v=nad38j0Isfo'] [Vid1][/URL] [URL='https://github.com/laytya/vQueue'][2][/URL]<br />
 [URL='https://github.com/Voidmenull/VanillaStoryline']VanillaStoryline[/URL] - enhance the readability and immersion when questing[URL='https://i.imgur.com/eJdhBwt.png'] [Img1][/URL][URL='https://i.imgur.com/PA305nO.png'] [Img2][/URL]<br />
-[URL='https://github.com/0ldi/VanillaMaps']VanillaMaps[/URL] - collection of detailed and clear maps, gathered from various sources</p><p>[SIZE=7][B]W[/B][/SIZE]<br />
+[URL='https://github.com/0ldi/VanillaMaps']VanillaMaps[/URL] - collection of detailed and clear maps, gathered from various sources</p>## W
 [URL='https://github.com/MOUZU/WarriorHUD']WarriorHUD[/URL] - a HUD(Head-up-Display) created exclusively for Warriors[URL='https://user-images.githubusercontent.com/26133646/39253411-1553a9fe-48a8-11e8-8b6d-9248a6fa18f7.png'] [Img1][/URL]<br />
 [URL='https://github.com/Cernie/WarriorTank']WarriorTank[/URL] - One button warrior tanking<br />
 [URL='https://github.com/webdkpthroaway/WebDKP_Elysium']WebDKP Elysium[/URL] - addon to help guild leaders manage their dkp<br />
@@ -538,7 +540,7 @@ layout: default
 [URL='https://github.com/Daribon/WowRadio']WowRadio[/URL] - Listen to Internet Radio inside WoW[URL='https://user-images.githubusercontent.com/26133646/39201801-6731232c-47f0-11e8-922c-96747b449861.png'] [Img1][/URL]<br />
 [URL='https://github.com/oppahansi/WoW-UIs']WoW-UIs[/URL] - A simple collection of legacy UIs<br />
 [URL='https://github.com/Daribon/WRUGS']WRUGS[/URL] - Effective addon to block gold seller whispers<br />
-[SIZE=7][B]X[/B][/SIZE]<br />
+[SIZE=7][B]X
 [URL='https://github.com/unknauwn/XckMasterLootAdvanced']XckMasterLootAdvanced[/URL] - Easy way to assign loot as ML[URL='https://camo.githubusercontent.com/266a585b242f8c2ede245f7e68794ed8d0b480ac/68747470733a2f2f707265766965772e6962622e636f2f6543456a45372f53637265656e73686f745f312e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/EinBaum/XFactionChat']XFactionChat[/URL] - Cross Faction Chat<br />
 [URL='https://github.com/Ko0z/XLoot']XLoot[/URL] - Xloot for 1.12 Shagu Style <br />
@@ -546,9 +548,9 @@ layout: default
 [URL='https://github.com/diaFRAGma/XPerl']XPerl[/URL] - Replaces the normal unit, party, target, pet frames and adds target-of-target<br />
 [URL='https://github.com/unknauwn/XTranqManager']XTranqManager[/URL] - Easy Auto Announce TranqShot[URL='https://camo.githubusercontent.com/88ec5ebf10aeadc37c7486521a412bc506c05310/687474703a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f36333631333637333030643734366631626566613636313162326461363365342e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/unknauwn/XtraUnitFrame']XtraUnitFrame[/URL] - Advanced Compact Unit Raid Frame[URL='https://camo.githubusercontent.com/ef38b8a75254f2a5de0d30f72953644ac468ea91/687474703a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f30313231643338356433363634633434386161356666393663373362636263632e706e67'] [Img1][/URL][URL='https://camo.githubusercontent.com/b93d9926ea9297447bd99e5a4de8014db0b9b6f5/68747470733a2f2f696d6167652e6962622e636f2f6362425171642f745f6c5f6368617267656d656e742e706e67'] [Img2][/URL]<br />
-[SIZE=7][B]Y[/B][/SIZE]<br />
+[SIZE=7][B]Y
 [URL='https://github.com/Aviana/YaHT']YAHT[/URL] - Yet another Hunter Timer[URL='https://i.imgur.com/aT152lD.png'] [Img1][/URL][URL='https://i.imgur.com/PZlUAkU.png'] [Img2][/URL]<br />
-[SIZE=7][B]Z[/B][/SIZE]<br />
+[SIZE=7][B]Z
 [URL='https://github.com/minexew/zeroDB']ZeroDB[/URL] - database addon[URL='https://camo.githubusercontent.com/6cb46960e3e3f9cc7080934e928d1f94b1887dd4/687474703a2f2f692e696d6775722e636f6d2f524857686b41662e706e67'] [Img1][/URL]<br />
 [URL='https://github.com/Lichery/ZGLoot']ZGLoot[/URL] - automate looting in ZG, AQ 20 and AQ 40[URL='https://user-images.githubusercontent.com/26133646/36640833-a03d316c-1a26-11e8-9971-7935e2b55bb5.png'] [Img1][/URL]<br />
 [URL='https://github.com/rsheep/ZGTracker']ZGTracker[/URL] - Tracks Zul'Gurub coins and bijous lootage<br />
