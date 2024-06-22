@@ -1,6 +1,6 @@
 # Mr_Rosh Turtle WoW UI
 
-### [Learn how to install AddOns](https://turtle-wow.fandom.com/wiki/Addons#How_to_Install_Addons) | [WoW Mods](https://turtle-wow.fandom.com/wiki/Client_Mods) | [Fixes & Tweaks](https://turtle-wow.fandom.com/wiki/Client_Fixes_and_Tweaks)
+### [Learn how to install AddOns](https://turtle-wow.fandom.com/wiki/Addons#How_to_Install_Addons){:target="_blank" rel="noopener"} | [WoW Mods](https://turtle-wow.fandom.com/wiki/Client_Mods){:target="_blank" rel="noopener"} | [Fixes & Tweaks](https://turtle-wow.fandom.com/wiki/Client_Fixes_and_Tweaks){:target="_blank" rel="noopener"}
 
 ## My UI AddOns are made of:
 * [pfUI](https://shagu.org/pfUI){:target="_blank" rel="noopener"}
@@ -12,4 +12,4 @@
 
 <span style="color: #ff201e">Get my pfUI profile, copy the code, then go into your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`. You're all done!</span>
 
-## [Mr Rosh pfUI Profile](https://mrrosh.github.io/import)
+## [Mr Rosh pfUI Profile](https://mrrosh.github.io/import){:target="_blank" rel="noopener"}
