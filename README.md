@@ -14,4 +14,4 @@
 
 ## [Mr Rosh pfUI Profile](https://mrrosh.github.io/import){:target="_blank" rel="noopener"}
 
-[<img src="assets/img/YouTube.png">](https://www.youtube.com/@mr_rosh) [<img src="assets/img/Twitch.png">](https://twitch.tv/mr_rosh) [<img src="assets/img/Kick.png">](https://kick.com/mr_rosh)
+[<img src="assets/img/YouTube.png">](https://www.youtube.com/@mr_rosh){:target="_blank" rel="noopener"}     [<img src="assets/img/Twitch.png">](https://twitch.tv/mr_rosh){:target="_blank" rel="noopener"}     [<img src="assets/img/Kick.png">](https://kick.com/mr_rosh){:target="_blank" rel="noopener"}
