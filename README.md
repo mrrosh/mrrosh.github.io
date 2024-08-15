@@ -12,8 +12,8 @@
 
 <span style="color: #ff201e">Get my pfUI profile, copy the code, then go into your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`. You're all done!</span>
 
-## [Mr Rosh pfUI Profile 1 - Current One That I'm Using](https://mrrosh.github.io/import){:target="_blank" rel="noopener"}
+## [Mr Rosh pfUI Profile 1 - Current One That I'm Using](https://mrrosh.github.io/import2){:target="_blank" rel="noopener"}
 
-## [Mr Rosh pfUI Profile 2](https://mrrosh.github.io/import2){:target="_blank" rel="noopener"}
+## [Mr Rosh pfUI Profile 2](https://mrrosh.github.io/import){:target="_blank" rel="noopener"}
 
 [<img src="assets/img/YouTube.png">](https://www.youtube.com/@mr_rosh){:target="_blank" rel="noopener"}     [<img src="assets/img/Twitch.png">](https://twitch.tv/mr_rosh){:target="_blank" rel="noopener"}     [<img src="assets/img/Kick.png">](https://kick.com/mr_rosh){:target="_blank" rel="noopener"}
