@@ -5,6 +5,6 @@ markdown: kramdown
 keywords: pfui,wow,warcraft,turtle,turtlewow,ui,profile,rosh,mrrosh,addon,addons,vanilla,classic
 
 /* custom-styles.css */
-.md-typeset pre > code {
-    max-height: 1rem;
+pre>code {
+    max-height: 3rem;
 }
