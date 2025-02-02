@@ -5,4 +5,4 @@ h1#mr_rosh-turtle-wow-ui {
     -webkit-text-fill-color: transparent;
 	font-family: Fontin-Sans;
 }
-pre>code {max-height: 5rem;}
+pre>code {max-height: 5rem!important}
