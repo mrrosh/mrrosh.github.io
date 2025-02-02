@@ -14,9 +14,13 @@
 <span style="color: #ff201e">Get my pfUI profile, copy the code, then go into your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`. You're all done!</span>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
-<pre>
-  <code id="codeBlock">
-    Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
+
+
+
+<div class="code-container">
+  <button class="copy-btn" data-clipboard-target="#codeBlock">Copy</button>
+  <pre><code id="codeBlock">
+Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
 aQAFAW4AcwBpAHoAZQAaARwBIgAyADQAIgAsAB4BEAESAXMAcABhAGMAaQBuAGcAKQEMASIAMAAuAR4BfQAvATEBIgBk
 AGkAcwBhAGIAbABlAGQAOgEdAR8BIAEUARYBGAFMATwBPgFOARIBcABpAHgAZQBsAHAAZQByAGYAZQBjAHQAUwE9AUEB
 HwEyAWsANwFfAFMAXQFsAGwAYgBvAG8AawBkAVUBZwEiAHMAaQFuAF8ATwBwAHQAaQAGAXMAIAAtACAAUwBvAHUAbgBL
@@ -169,9 +173,11 @@ cwItB4QR0w9UCXcKJQucCKoNLwqECq4N2gywDagDqgNDAn8ExQz5BB4DUwGqDEsN0QvlCvYTPgv4CrkL
 A1ABFwEeBtUNPg4VAX0E8AFDCikVNQCVDQUCvAS7BM4DrAtaDHAMdgHmDTsBWBIIDWYHgQxDDCMHAwTKDm0TJRVxAfUI
 yg++AQQQhAgGEBkQvhESAeAPZQCpD+wNAhBXAWcNygJzDa8PcgXYDCQQIQ5qFfwH/whnFQYBCBCMBFIJyg2xD4gLqgMA
 FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==
-  </code>
-  <button class="copy-btn" data-clipboard-target="#codeBlock">Copy</button>
-</pre>
+  </code></pre>
+</div>
+
+
+
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     var clipboard = new ClipboardJS('.copy-btn');
