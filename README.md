@@ -13,12 +13,11 @@
 
 <span style="color: #ff201e">Get my pfUI profile, copy the code, then go into your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`. You're all done!</span>
 
-## [Mr Rosh pfUI Profile 1 - Current One That I'm Using](https://mrrosh.github.io/import2){:target="_blank" rel="noopener"}
+<script src="https://wzrd.in/standalone/copy-to-clipboard@latest" async></script>
 
-## [Mr Rosh pfUI Profile 2](https://mrrosh.github.io/import){:target="_blank" rel="noopener"}
+import copy from 'copy-to-clipboard';
 
-<!-- The text field -->
-<input type="text" value="Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
+copy('Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
 aQAFAW4AcwBpAHoAZQAaARwBIgAyADQAIgAsAB4BEAESAXMAcABhAGMAaQBuAGcAKQEMASIAMAAuAR4BfQAvATEBIgBk
 AGkAcwBhAGIAbABlAGQAOgEdAR8BIAEUARYBGAFMATwBPgFOARIBcABpAHgAZQBsAHAAZQByAGYAZQBjAHQAUwE9AUEB
 HwEyAWsANwFfAFMAXQFsAGwAYgBvAG8AawBkAVUBZwEiAHMAaQFuAF8ATwBwAHQAaQAGAXMAIAAtACAAUwBvAHUAbgBL
@@ -170,28 +169,10 @@ EjgTbhTAFIQTIgDxEoEUABS5FGIKpwWjDNQCygZHD/UPjgLIBpUKZABaBW4AuQkqAo0KVAkrCRoDJgUd
 cwItB4QR0w9UCXcKJQucCKoNLwqECq4N2gywDagDqgNDAn8ExQz5BB4DUwGqDEsN0QvlCvYTPgv4CrkLZAUFDeoJBg0a
 A1ABFwEeBtUNPg4VAX0E8AFDCikVNQCVDQUCvAS7BM4DrAtaDHAMdgHmDTsBWBIIDWYHgQxDDCMHAwTKDm0TJRVxAfUI
 yg++AQQQhAgGEBkQvhESAeAPZQCpD+wNAhBXAWcNygJzDa8PcgXYDCQQIQ5qFfwH/whnFQYBCBCMBFIJyg2xD4gLqgMA
-FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==" id="myInput">
+FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==');
 
-<!-- The button used to copy the text -->
-<button onclick="myFunction()">Copy text</button>
+![WoWScrnShot_020225_195228 tga](https://github.com/user-attachments/assets/66c0d67c-ea7d-4b17-99c8-1874dbcb76b0)
 
-
-function myFunction() {
-  // Get the text field
-  var copyText = document.getElementById("myInput");
-
-  // Select the text field
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobile devices
-
-   // Copy the text inside the text field
-  navigator.clipboard.writeText(copyText.value);
-
-  // Alert the copied text
-  alert("Copied the text: " + copyText.value);
-}
-
-![image](https://github.com/user-attachments/assets/0916be6f-5536-46ee-b8dc-7f3a08824923)
 
 
 ## Subscribe to my YouTube channel
