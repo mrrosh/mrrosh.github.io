@@ -11,11 +11,11 @@
 * [pfUI-MoreFonts](https://github.com/mrrosh/pfUI-MoreFonts){:target="_blank" rel="noopener"}
 * [pfUI-ElitePlayerFrame](https://github.com/mrrosh/pfUI-ElitePlayerFrame){:target="_blank" rel="noopener"}
 
-# <b>To get my pfUI profile, copy the code bellow, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!</b>
+### To get my pfUI profile, copy the code bellow, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
-
-
 
 <div class="code-container">
   <button class="copy-btn" data-clipboard-target="#codeBlock">Copy</button>
