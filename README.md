@@ -11,7 +11,7 @@
 * [pfUI-MoreFonts](https://github.com/mrrosh/pfUI-MoreFonts){:target="_blank" rel="noopener"}
 * [pfUI-ElitePlayerFrame](https://github.com/mrrosh/pfUI-ElitePlayerFrame){:target="_blank" rel="noopener"}
 
-## <b><span style="color: #33ffcc">To get my pfUI profile, copy the code bellow, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!</span></b>
+# <b>To get my pfUI profile, copy the code bellow, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!</b>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
 
