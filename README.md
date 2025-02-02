@@ -15,8 +15,6 @@
 
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
-
 <div class="code-container">
   <button class="copy-btn" data-clipboard-target="#codeBlock">Copy</button>
   <pre><code id="codeBlock">
@@ -173,25 +171,29 @@ cwItB4QR0w9UCXcKJQucCKoNLwqECq4N2gywDagDqgNDAn8ExQz5BB4DUwGqDEsN0QvlCvYTPgv4CrkL
 A1ABFwEeBtUNPg4VAX0E8AFDCikVNQCVDQUCvAS7BM4DrAtaDHAMdgHmDTsBWBIIDWYHgQxDDCMHAwTKDm0TJRVxAfUI
 yg++AQQQhAgGEBkQvhESAeAPZQCpD+wNAhBXAWcNygJzDa8PcgXYDCQQIQ5qFfwH/whnFQYBCBCMBFIJyg2xD4gLqgMA
 FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==
+console.log("Hello, World!");
   </code></pre>
 </div>
 
-
+<!-- Include Clipboard.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var clipboard = new ClipboardJS('.copy-btn');
+  document.addEventListener("DOMContentLoaded", function () {
+    var clipboard = new ClipboardJS(".copy-btn");
 
-    clipboard.on('success', function (e) {
-      console.log('Text copied to clipboard');
+    clipboard.on("success", function (e) {
+      e.trigger.innerText = "Copied!";
+      setTimeout(() => (e.trigger.innerText = "Copy"), 2000);
       e.clearSelection();
     });
 
-    clipboard.on('error', function (e) {
-      console.error('Failed to copy text');
+    clipboard.on("error", function () {
+      alert("Failed to copy!");
     });
   });
 </script>
+
 
 
 
