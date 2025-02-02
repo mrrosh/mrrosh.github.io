@@ -13,7 +13,7 @@
 
 <span style="color: #ff201e">Get my pfUI profile, copy the code, then go into your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`. You're all done!</span>
 
-```lua
+```
 Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
 aQAFAW4AcwBpAHoAZQAaARwBIgAyADQAIgAsAB4BEAESAXMAcABhAGMAaQBuAGcAKQEMASIAMAAuAR4BfQAvATEBIgBk
 AGkAcwBhAGIAbABlAGQAOgEdAR8BIAEUARYBGAFMATwBPgFOARIBcABpAHgAZQBsAHAAZQByAGYAZQBjAHQAUwE9AUEB
