@@ -11,7 +11,9 @@
 * [pfUI-MoreFonts](https://github.com/mrrosh/pfUI-MoreFonts){:target="_blank" rel="noopener"}
 * [pfUI-ElitePlayerFrame](https://github.com/mrrosh/pfUI-ElitePlayerFrame){:target="_blank" rel="noopener"}
 
-### [To get my pfUI profile, copy the code bellow, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!](https://mrrosh.github.io/import.html){:target="_blank" rel="noopener"}
+### [To get my pfUI profile, click here, a new page will open, press the `Copy` button, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!](https://mrrosh.github.io/import.html){:target="_blank" rel="noopener"}
+
+[Pastebin.com Backup](https://pastebin.com/ckeMcPvA)
 
 
 ![WoWScrnShot_020225_195228 tga](https://github.com/user-attachments/assets/66c0d67c-ea7d-4b17-99c8-1874dbcb76b0)
