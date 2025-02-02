@@ -11,7 +11,7 @@
 * [pfUI-MoreFonts](https://github.com/mrrosh/pfUI-MoreFonts){:target="_blank" rel="noopener"}
 * [pfUI-ElitePlayerFrame](https://github.com/mrrosh/pfUI-ElitePlayerFrame){:target="_blank" rel="noopener"}
 
-<span style="color: #ff201e">Get my pfUI profile, copy the code, then go into your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`. You're all done!</span>
+## <b><span style="color: #33ffcc">To get my pfUI profile, copy the code bellow, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!</span></b>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
 
@@ -196,11 +196,3 @@ FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==
 
 
 ![WoWScrnShot_020225_195228 tga](https://github.com/user-attachments/assets/66c0d67c-ea7d-4b17-99c8-1874dbcb76b0)
-
-
-
-## Subscribe to my YouTube channel
-[<img src="assets/img/YouTube.png">](https://www.youtube.com/@mr_rosh){:target="_blank" rel="noopener"}
-
-## Follow me on Twitch 
-[<img src="assets/img/Twitch.png">](https://twitch.tv/mr_rosh){:target="_blank" rel="noopener"}
