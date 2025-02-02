@@ -15,10 +15,10 @@
 
 
 
+
 <div class="code-container">
-  <button class="copy-btn" data-clipboard-target="#codeBlock">Copy</button>
-  <pre><code id="codeBlock">
-Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
+  <button class="copy-btn">Copy</button>
+  <pre><code id="codeBlock">Y3AAZgBVAEkAXwBjAG8AbgBmAGkAZwAgAD0AIAB7AAoAIAAgAFsAIgB0AG8AdABlAG0AcwAiAF0ACwENAQ8BEAERASIA
 aQAFAW4AcwBpAHoAZQAaARwBIgAyADQAIgAsAB4BEAESAXMAcABhAGMAaQBuAGcAKQEMASIAMAAuAR4BfQAvATEBIgBk
 AGkAcwBhAGIAbABlAGQAOgEdAR8BIAEUARYBGAFMATwBPgFOARIBcABpAHgAZQBsAHAAZQByAGYAZQBjAHQAUwE9AUEB
 HwEyAWsANwFfAFMAXQFsAGwAYgBvAG8AawBkAVUBZwEiAHMAaQFuAF8ATwBwAHQAaQAGAXMAIAAtACAAUwBvAHUAbgBL
@@ -170,27 +170,16 @@ EjgTbhTAFIQTIgDxEoEUABS5FGIKpwWjDNQCygZHD/UPjgLIBpUKZABaBW4AuQkqAo0KVAkrCRoDJgUd
 cwItB4QR0w9UCXcKJQucCKoNLwqECq4N2gywDagDqgNDAn8ExQz5BB4DUwGqDEsN0QvlCvYTPgv4CrkLZAUFDeoJBg0a
 A1ABFwEeBtUNPg4VAX0E8AFDCikVNQCVDQUCvAS7BM4DrAtaDHAMdgHmDTsBWBIIDWYHgQxDDCMHAwTKDm0TJRVxAfUI
 yg++AQQQhAgGEBkQvhESAeAPZQCpD+wNAhBXAWcNygJzDa8PcgXYDCQQIQ5qFfwH/whnFQYBCBCMBFIJyg2xD4gLqgMA
-FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==
-console.log("Hello, World!");
-  </code></pre>
+FeEJRQ5jA+oPagNbAW8AbgLAAe4LjATeDwoAfQAKAA==</code></pre>
 </div>
 
-<!-- Include Clipboard.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
-
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    var clipboard = new ClipboardJS(".copy-btn");
-
-    clipboard.on("success", function (e) {
-      e.trigger.innerText = "Copied!";
-      setTimeout(() => (e.trigger.innerText = "Copy"), 2000);
-      e.clearSelection();
-    });
-
-    clipboard.on("error", function () {
-      alert("Failed to copy!");
-    });
+  document.querySelector(".copy-btn").addEventListener("click", function () {
+    let codeBlock = document.querySelector("#codeBlock");
+    navigator.clipboard.writeText(codeBlock.innerText).then(() => {
+      this.innerText = "Copied!";
+      setTimeout(() => (this.innerText = "Copy"), 2000);
+    }).catch(() => alert("Failed to copy!"));
   });
 </script>
 
