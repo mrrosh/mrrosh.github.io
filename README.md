@@ -25,3 +25,11 @@
 
 
 ![WoWScrnShot](https://i.imgur.com/50FOBFo.png)
+
+
+### [To get my pfUI profile, click here, a new page will open, press the `Copy` button, then go to your game and type in chat `/import` and press enter. Paste the code, press `Decode` and `Import`, then press `Yes`. That's it, you're all done!](https://mrrosh.github.io/import2.html){:target="_blank" rel="noopener"}
+
+[Pastebin.com Backup](https://pastebin.com/uq7Lt3Ma)
+
+
+![WoWScrnShot](https://i.imgur.com/pvw92YT.jpeg)
