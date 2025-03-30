@@ -16,4 +16,4 @@
 [Pastebin.com Backup](https://pastebin.com/ckeMcPvA)
 
 
-![WoWScrnShot_020225_195228 tga](https://github.com/user-attachments/assets/66c0d67c-ea7d-4b17-99c8-1874dbcb76b0)
+![WoWScrnShot](https://i.imgur.com/50FOBFo.png)
