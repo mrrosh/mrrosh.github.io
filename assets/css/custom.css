@@ -9,10 +9,7 @@ pre>code {max-height: 5rem!important}
 
 img {max-width: 50%!important}
 img:hover {max-width: 100%!important}
-.code-container {
-  position: relative;
-  display: inline-block;
-}
+
 
 .code-container {
   position: relative;
@@ -31,6 +28,11 @@ img:hover {max-width: 100%!important}
   font-size: 14px;
   border-radius: 4px;
   transition: background-color 0.2s;
+  transform: scale(4);
+  margin-bottom: 150px;
+  margin-top: 150px;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 
 .copy-btn:hover {
@@ -38,11 +40,13 @@ img:hover {max-width: 100%!important}
 }
 
 pre {
-  background-color: #f4f4f4;
   padding: 15px;
   border-radius: 5px;
   overflow-x: auto;
   position: relative;
   font-family: monospace;
+  color: white;
 }
+
+body {background: linear-gradient(to right, #1d2549, #181412)}
 
