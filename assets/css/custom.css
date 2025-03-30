@@ -39,6 +39,13 @@ img:hover {max-width: 100%!important}
   background-color: #45a049;
 }
 
+button.copy-btn {
+    transform: scale(2);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
 pre {
   padding: 15px;
   border-radius: 5px;
